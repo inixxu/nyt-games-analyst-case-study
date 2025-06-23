@@ -1,56 +1,89 @@
 # 🧩 NYT Games Product Analyst Case Study
 
-This project simulates the responsibilities of a **Product Analyst** at *The New York Times Games*, using mock data and real tools to investigate player behavior, product performance, and platform strategy across Wordle, Spelling Bee, and Connections.
+**“Inside the Minds of NYT Puzzle Players”**  
+A multi-layered data storytelling project exploring how Wordle, Connections, and Spelling Bee shape user behavior, platform engagement, and product strategy.
+
+Built using SQL, Tableau, and Canva, this case study simulates real responsibilities of a Product Analyst at NYT Games—tracking KPIs, monitoring trends, and proposing scalable solutions that turn player habits into product opportunities.
 
 ---
 
-## 🎯 Objectives
-- Understand hourly and platform usage patterns
-- Evaluate A/B test performance using simulated variants
-- Map game-to-game user flows
-- Recommend data-driven product and retention strategies
+## 🎯 Project Goals
+- Reveal player engagement patterns across NYT Games titles
+- Evaluate platform usage by device and session timing
+- Visualize A/B test results and suggest rollout strategies
+- Simulate a real-world incident response (LiveOps scenario)
+- Propose data-driven feature ideas and UX improvements
 
 ---
 
-## 🧰 Tools Used
-- SQL (BigQuery syntax, mock query)
-- Tableau Public (data visualization)
-- Canva (case study design)
-- Google Sheets (mock data manipulation)
+## 🧰 Tools & Methods
+| Tool | Use |
+|------|-----|
+| SQL (BigQuery) | Generate and query mock player data |
+| Tableau Public | Visualize game-to-game transitions and KPIs |
+| Canva | Design data storytelling slides |
+| Google Sheets | Simulate dataset and A/B test tagging |
 
 ---
 
-## 📊 Key Insights
-| Metric | Insight |
-|--------|---------|
-| 📈 Peak Hour | 2AM shows a 124% spike — ideal for night-based features |
-| 🧪 Variant B | Outperformed Variant A by +26.8% |
-| 🔁 Flow Drop | Only 11% of Spelling Bee players moved to Connections |
-| 📱 Device Share | 68% of sessions are mobile — optimize UX accordingly |
+## 📊 Key Findings
+| Insight | Description |
+|--------|-------------|
+| 🕒 **Peak Time: 2AM** | 2,341 sessions recorded, with a 124% spike over 4AM |
+| 🧪 **Variant B Wins** | Outperformed Variant A by +26.8% across all games |
+| 🔁 **Sticky Player Flow** | Wordle → Bee → Connections retained 41% of users |
+| 📱 **Mobile First** | 68% of players used mobile devices; Spelling Bee excelled on desktop |
+| ⛔ **Drop-off Risk** | 18% of users exited after playing Spelling Bee without moving on |
 
 ---
 
-## 📂 Project Files
-- `NYT_Games_Case_Study.pdf` — Final case study
-- `/images/` — Slide previews (PNG)
-- `/sql/` — Simulated SQL query
-- `/data/` — Mock dataset for presentation
+## 🧠 Player Personas
+- **🦉 The Night Owl** – Plays Connections after 2AM  
+- **📚 The Commuter Solver** – Starts Wordle at 7:30AM  
+- **🧠 The Puzzle Hopper** – Moves through multiple games per session
 
 ---
 
-## 📥 Preview the Case Study
-- [🔗 Full PDF Presentation](NYT_Games_Case_Study.pdf)
-- Or browse slides below:
+## 📍 Recommendations
+- Expand Variant B rollout based on 26.8% session uplift  
+- Optimize mobile UX for Wordle and audit Spelling Bee's mobile experience  
+- Add CTAs to encourage movement from Spelling Bee to Connections  
+- Shift scheduled maintenance away from 2AM (peak time for Wordle + Connections)  
+- Build real-time dashboards to flag engagement or server anomalies
 
-![Slide 1](images/nyt_page_1.png)
+---
+
+## ⚙️ Project Files
+
+- [`NYT_Games_Case_Study.pdf`](NYT_Games_Case_Study.pdf) – Full case study presentation  
+- [`mock_dataset.csv`](data/mock_dataset.csv) – Simulated session data  
+- [`mock_query.sql`](sql/mock_query.sql) – Sample SQL used for analysis  
+- `/images/` – Slide visuals for preview
+
+---
+
+## 🖼 Slide Preview
+> Browse selected slides from the full case study:
+
+### Hourly Trends + Device Breakdown  
 ![Slide 2](images/nyt_page_2.png)
+
+### A/B Test Results + Transition Paths  
 ![Slide 3](images/nyt_page_3.png)
 
+### Metric Watchlist  
+![Slide 6](images/nyt_page_6.png)
+
 ---
 
-## 💡 Why It Matters
+## 💬 Why This Matters
 
-This case study showcases how I approach product thinking, engagement strategy, and data storytelling. Though focused on a gaming product, the methodology is directly transferable to **ecommerce, SaaS, digital media, and consumer analytics** roles.
+This case study doesn’t just analyze games—it demonstrates how I think like a product or business analyst: through player patterns, behavioral funnels, and platform strategy. These insights apply to any user-facing product, from mobile apps to ecommerce platforms.
 
-Let’s build better products with data.  
-**— Chastity Nix**
+Let’s turn moments into habits. Let the data guide the design.
+
+---
+
+**Chastity Nix**  
+Product Analyst · Data Storyteller · Puzzle Fan  
+📧 nix.ch003@gmail.com
