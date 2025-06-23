@@ -1,0 +1,6 @@
+user_id,game,session_start,device,session_length_min,variant
+101,Wordle,2024-06-01 02:01,Mobile,4.5,A
+102,Connections,2024-06-01 02:15,Mobile,6.0,B
+103,Spelling Bee,2024-06-01 07:30,Desktop,5.2,A
+104,Wordle,2024-06-01 14:10,Mobile,3.8,B
+105,Connections,2024-06-01 23:45,Desktop,7.1,B
