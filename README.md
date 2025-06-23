@@ -66,13 +66,13 @@ Built using SQL, Tableau, and Canva, this case study simulates real responsibili
 > Browse selected slides from the full case study:
 
 ### Hourly Trends + Device Breakdown  
-![Slide 2](images/nyt_page_2.png)
+![Slide 2](images/nyt_page_2.jpg)
 
 ### A/B Test Results + Transition Paths  
-![Slide 3](images/nyt_page_3.png)
+![Slide 3](images/nyt_page_3.jpg)
 
 ### Metric Watchlist  
-![Slide 6](images/nyt_page_6.png)
+![Slide 6](images/nyt_page_6.jpg)
 
 ---
 
